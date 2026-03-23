@@ -21,6 +21,10 @@ A simple Low-Level Design (LLD) to model different types of pens using **object-
   * Bottom refill
   * Dropper refill
 
+## UML Diagram
+
+![alt text](UML.png)
+
 ## Design Overview
 
 ### 1. Pen (Abstract Class)
